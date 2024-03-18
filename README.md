@@ -1,2 +1,1 @@
-# My-masterpiece
-Just for sneak around git
+# (trying) deep learning projects from beginner level
